@@ -3,6 +3,6 @@
     "express": "^5.1.0"
   },
   "scripts": {
-    "server": "node api/index.js"
+    "server": "node index.js"
   }
 }
